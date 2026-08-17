@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import "./PixelForge.css";
+import "./PixelForge_FIXED.css";
 
 export default function PixelForge() {
   const canvasRef = useRef(null);
